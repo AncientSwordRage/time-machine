@@ -1,2 +1,2 @@
 # time-machine
-TODO: come back and finish this project
+TODO: come back from the future to finish this project
